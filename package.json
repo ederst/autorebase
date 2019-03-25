@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "debug": "^4.1.1",
-    "github-rebase": "^1.0.0",
+    "github-rebase": "https://github.com/ederst/autorebase.git#switcharoo-feature",
     "probot-serverless-now": "^1.0.1",
     "promise-retry": "^1.1.1",
     "shared-github-internals": "^1.0.0"
